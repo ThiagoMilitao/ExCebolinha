@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\bin\Debug\net9.0\exCebolinha.exe
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\bin\Debug\net9.0\exCebolinha.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\bin\Debug\net9.0\exCebolinha.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\bin\Debug\net9.0\exCebolinha.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\bin\Debug\net9.0\exCebolinha.pdb
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\refint\exCebolinha.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.pdb
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\exCebolinha.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exCebolinha\obj\Debug\net9.0\ref\exCebolinha.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "exCebolinha/1.0.0": {
+        "runtime": {
+          "exCebolinha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exCebolinha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
